@@ -1,0 +1,71 @@
+.hello{
+    font-family:Perpetua Titling MT;
+    font-size: 35px;
+    text-align: center;
+   background-color: lightskyblue;
+    font-weight: 450;
+    color: navy;
+}
+.list{
+    font-family: Lucida Handwriting;
+    font-size: 25px;
+    color: rgb(240, 21, 6);
+    background-color: lightgoldenrodyellow;
+}
+body{
+    background-color: tomato;
+}
+
+.h1{
+ 
+    color: rgb(25, 0, 255);
+   }
+  
+       a.h2:link{
+           color: white;
+           text-decoration: underline;
+       }
+       a.h2:visited{
+        color:white;
+        text-decoration:underline;
+    }
+    a.h2:hover{
+        color: rgb(250, 250, 248);
+        
+        font-size:30px;
+        text-decoration: none;
+           }
+           a.h2:active{
+            color: rgb(250, 250, 248);
+            
+            font-size:30px;
+            text-decoration:underline;
+               }
+           .o1{
+               font-size: 25px;
+               color: darkorchid;
+               font-family: 'Bradley Hand ITC';
+               position:relative;
+               bottom:700px;
+               left:600px;
+               font-weight: bold;
+           }
+           .o2{
+            font-size: 25px;
+            color: darkorchid;
+            font-family: 'Bradley Hand ITC';
+            position:relative;
+            bottom: 600px;
+            left:600px;
+            font-weight: bold;
+        }
+        .o3{
+            font-size: 25px;
+            color: darkorchid;
+            font-family: 'Bradley Hand ITC';
+            position:relative;
+            bottom: 500px;
+            left:600px;
+            font-weight: bold;
+        }
+      

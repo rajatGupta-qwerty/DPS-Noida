@@ -1,0 +1,123 @@
+body{
+    background-color: teal;
+    
+}
+.maindiv{
+    width:1000;
+    height:auto;
+    margin: auto;
+  
+    background-color: teal;
+   
+}
+.headerdiv{
+width:1000px;
+height:200px;
+background-color: tomato;
+background-image: url(unnamed.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+
+ .homemenu:hover{
+  background-color:khaki;
+  color: darkred;
+  font-size: 20px;
+  font-family: sans-serif;
+text-align: center;
+padding-top: 20px;
+margin-bottom: auto;
+border: solid plum 0px;
+font-family: Castellar;
+font-weight: bolder;
+
+
+
+
+
+}
+ .homemenu{
+    
+  width:166.6666px;
+  height: 30px;
+  color: rgb(250, 250, 250);
+  background-color: black;
+  float: left;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-family: cursive;
+  display: block;
+  margin-left: 84px;
+   
+   
+    
+
+ }
+ .homemenue{
+    
+  width:166.6666px;
+  height: 30px;
+  color: rgb(236, 11, 142);
+  background-color: black;
+  float: left;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-family: cursive;
+  display: block;
+   
+   
+    
+
+ }
+ 
+ .menueach{
+    
+  width:166.6666px;
+  height: 30px;
+  color: yellow;
+  background-color: black;
+  float: left;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-family: cursive;
+  display: block;
+}
+ 
+.menueach:hover{
+    background-color:white;
+    color: purple;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-top: 20px;
+  border: solid plum 0px;
+ 
+}
+.homemenue:hover{
+  background-color:white;
+  color: purple;
+  font-size: 20px;
+  font-family: sans-serif;
+  padding-top: 20px;
+border: solid plum 0px;
+
+}
+.video{
+  margin-left:20;
+margin-top: 0px;
+position:relative;
+bottom:33px;
+right: 20px;
+  
+}
+
+.b2{
+  color: khaki;
+  font-size: 19.9999px;
+}
+.c{
+  margin-top: 110px;
+}

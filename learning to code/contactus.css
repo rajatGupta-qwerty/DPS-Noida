@@ -1,0 +1,28 @@
+.map{
+   margin-left:400px;
+}
+body{
+    background-color: rgb(178, 245, 22);
+}
+.goback a{
+    color: maroon;
+    text-decoration: none;
+    font-size: 22px;
+    
+}
+.goback a:hover{
+    font-size: 40px;
+    text-decoration: underline;
+    font-family:Bradley Hand ITC;
+    font-weight: 900;
+}
+.goback a:active{
+    font-size: 40px;
+    text-decoration: underline;
+    font-family:Bradley Hand ITC;
+    font-weight: 900;
+    background-color: mintcream;
+}
+.goback{
+    text-align: center;
+}

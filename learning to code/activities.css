@@ -1,0 +1,65 @@
+a.edf:link{
+color: rgb(0, 0, 0);
+font-size: xx-large;
+font-weight: 600;
+font-family: cursive;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+a.edf:hover{
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: cursive;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lavender;
+    
+    
+    }
+a.edf:visited{
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    font-family: cursive;
+font-weight: 600;
+text-align: center;
+
+
+    }
+body{
+    background-image:url(unnamed.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.edf{
+    text-align: center;
+}
+.hf{
+    text-align: center;
+}
+a.edfe{
+text-decoration: none;
+color: rgb(0, 0, 0);
+font-size: xx-large;
+font-weight: 600;
+font-family: cursive;
+margin-left: auto;
+margin-right: auto;
+}
+a.edfe:hover{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: cursive;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lavender;
+    }
+    a.h100{
+        color:rgb(0, 0, 0);
+        background-color: khaki;
+    }
